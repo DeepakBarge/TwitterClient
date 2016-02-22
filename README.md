@@ -9,7 +9,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ![demo](demo1.gif)
-![demo](demo2.gif)
+![demo](demo3.gif)
 
 Time spent: **25** hours spent in total
 
