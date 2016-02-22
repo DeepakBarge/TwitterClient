@@ -54,6 +54,8 @@ The following **additional** features are implemented:
 
 * [x] Active android persistence
 * [x] Animations!
+* [x] API and UI/Animations support to Favourite/Unfavourite a tweet
+* [x] API and UI/Animations support to Retweet
 
 ## Notes
 
