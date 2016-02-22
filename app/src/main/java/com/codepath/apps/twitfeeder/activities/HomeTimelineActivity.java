@@ -83,6 +83,8 @@ public class HomeTimelineActivity extends AppCompatActivity {
         getSupportActionBar().setLogo(R.drawable.ic_twitter_launcher);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+
+        fab.setImageResource(R.drawable.ic_action_composetweet);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
